@@ -5,4 +5,4 @@ You can see the details in our paper **StatGraph: Effective In-vehicle Intrusio
 
 We provide three folders: the "Dataset" folder for the raw data, the "StatGraph-CarHacking" folder and the "StatGraph-ROAD" folder for the data processing code and the neural network related code. 
 
-Please execute the code in each "dataprocess**" folder inside each "StatGraph-**" folder to generate data that can be fed into the neural network, before running the code in "ModelAdapting/run**" folder.
+Please execute the code in each "dataprocess" folder inside each "StatGraph-" folder to generate data that can be fed into the neural network, before running the code in "ModelAdapting/run" folder.
