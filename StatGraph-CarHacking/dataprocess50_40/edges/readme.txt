@@ -1,0 +1,1 @@
+You can generate the edge files required for training through "generate attack edges.py" and "generate attack edges.py", which process abnormal and normal data sets respectively and include three parts: graph property generation, data slice and data movement.
