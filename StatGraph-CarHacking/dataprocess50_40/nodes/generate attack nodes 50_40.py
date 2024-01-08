@@ -115,7 +115,7 @@ for TAG in range(1,5):
 
     label = []
     for i in range(len(labelset)):
-        if 1 in labelset[i]:
+        if 'T' in labelset[i]:
             label.append(1)  # Indicates that this graph contains abnormal data
         else:
             label.append(0)
